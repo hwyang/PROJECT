@@ -16,3 +16,4 @@ This project has 3 main part: game_init, game_run and game_destroy.
    state 5 and state 6: the winning image of either player.
    state 8: The image shown if exited.
    state 9: the "pause" state.
+![image](https://github.com/hwyang/project_mario_vollyball/blob/master/volleyball_gameplay.gif)
